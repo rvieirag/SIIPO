@@ -1,0 +1,5 @@
+C:\Users\vieira\Desktop\Proyectos\SIIPO\SIIPO\SIIPO.Dominio\bin\Release\SIIPO.Dominio.dll
+C:\Users\vieira\Desktop\Proyectos\SIIPO\SIIPO\SIIPO.Dominio\bin\Release\SIIPO.Dominio.pdb
+C:\Users\vieira\Desktop\Proyectos\SIIPO\SIIPO\SIIPO.Dominio\obj\Release\SIIPO.Dominio.csprojResolveAssemblyReference.cache
+C:\Users\vieira\Desktop\Proyectos\SIIPO\SIIPO\SIIPO.Dominio\obj\Release\SIIPO.Dominio.dll
+C:\Users\vieira\Desktop\Proyectos\SIIPO\SIIPO\SIIPO.Dominio\obj\Release\SIIPO.Dominio.pdb

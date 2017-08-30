@@ -1,0 +1,83 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="12.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{F3EAB66E-228C-4DBC-8BF5-B928AE31F1EC}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>SIIPO.Dominio</RootNamespace>
+    <AssemblyName>SIIPO.Dominio</AssemblyName>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Compile Include="Entidadades\Cliente.cs" />
+    <Compile Include="Entidadades\Contacto.cs" />
+    <Compile Include="Entidadades\DTESII\AreaDetalle.cs" />
+    <Compile Include="Entidadades\DTESII\AreaDscRcgGlobal.cs" />
+    <Compile Include="Entidadades\DTESII\AreaEmisor.cs" />
+    <Compile Include="Entidadades\DTESII\AreaIdDoc.cs" />
+    <Compile Include="Entidadades\DTESII\AreaReceptor.cs" />
+    <Compile Include="Entidadades\DTESII\AreaSubTotInfo.cs" />
+    <Compile Include="Entidadades\DTESII\AreaTotales.cs" />
+    <Compile Include="Entidadades\DTESII\CdgItem.cs" />
+    <Compile Include="Entidadades\DTESII\EnumDTE.cs" />
+    <Compile Include="Entidadades\DTESII\Referencia.cs" />
+    <Compile Include="Entidadades\SobreDte.cs" />
+    <Compile Include="Entidadades\Empresa.cs" />
+    <Compile Include="Entidadades\Pos.cs" />
+    <Compile Include="Entidadades\Sucursal.cs" />
+    <Compile Include="Interfaces\Repositorios\IClienteRepository.cs" />
+    <Compile Include="Interfaces\Repositorios\IContactoRepository.cs" />
+    <Compile Include="Interfaces\Repositorios\ISobreDteRepository.cs" />
+    <Compile Include="Interfaces\Repositorios\IEmpresaRepository.cs" />
+    <Compile Include="Interfaces\Repositorios\IPosRepository.cs" />
+    <Compile Include="Interfaces\Repositorios\IRepositoryBase.cs" />
+    <Compile Include="Interfaces\Repositorios\ISucursalRepository.cs" />
+    <Compile Include="Interfaces\Servicios\IClienteService.cs" />
+    <Compile Include="Interfaces\Servicios\IContactoService.cs" />
+    <Compile Include="Interfaces\Servicios\ISobreDteServicio.cs" />
+    <Compile Include="Interfaces\Servicios\IEmpresaService.cs" />
+    <Compile Include="Interfaces\Servicios\IPosService.cs" />
+    <Compile Include="Interfaces\Servicios\IServiceBase.cs" />
+    <Compile Include="Interfaces\Servicios\ISucursalService.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Servicios\ClienteService.cs" />
+    <Compile Include="Servicios\ContactoService.cs" />
+    <Compile Include="Servicios\SobreDteServicio.cs" />
+    <Compile Include="Servicios\EmpresaService.cs" />
+    <Compile Include="Servicios\PosService.cs" />
+    <Compile Include="Servicios\ServiceBase.cs" />
+    <Compile Include="Servicios\SucursalService.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

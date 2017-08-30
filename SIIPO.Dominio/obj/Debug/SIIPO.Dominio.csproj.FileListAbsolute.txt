@@ -1,0 +1,8 @@
+C:\Users\vieira\Desktop\Proyectos\SIIPO\SIIPO\SIIPO.Dominio\bin\Debug\SIIPO.Dominio.dll
+C:\Users\vieira\Desktop\Proyectos\SIIPO\SIIPO\SIIPO.Dominio\bin\Debug\SIIPO.Dominio.pdb
+C:\Users\vieira\Desktop\Proyectos\SIIPO\SIIPO\SIIPO.Dominio\obj\Debug\SIIPO.Dominio.dll
+C:\Users\vieira\Desktop\Proyectos\SIIPO\SIIPO\SIIPO.Dominio\obj\Debug\SIIPO.Dominio.pdb
+C:\Users\rvieira\Desktop\PROYECTOS\SIIPO\SIIPO.Dominio\bin\Debug\SIIPO.Dominio.dll
+C:\Users\rvieira\Desktop\PROYECTOS\SIIPO\SIIPO.Dominio\bin\Debug\SIIPO.Dominio.pdb
+C:\Users\rvieira\Desktop\PROYECTOS\SIIPO\SIIPO.Dominio\obj\Debug\SIIPO.Dominio.dll
+C:\Users\rvieira\Desktop\PROYECTOS\SIIPO\SIIPO.Dominio\obj\Debug\SIIPO.Dominio.pdb
