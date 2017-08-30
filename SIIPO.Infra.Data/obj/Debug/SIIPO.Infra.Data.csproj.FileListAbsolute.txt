@@ -1,0 +1,16 @@
+C:\Users\rvieira\Desktop\PROYECTOS\SIIPO\SIIPO.Infra.Data\bin\Debug\SIIPO.Infra.Data.dll.config
+C:\Users\rvieira\Desktop\PROYECTOS\SIIPO\SIIPO.Infra.Data\bin\Debug\SIIPO.Infra.Data.dll
+C:\Users\rvieira\Desktop\PROYECTOS\SIIPO\SIIPO.Infra.Data\bin\Debug\SIIPO.Infra.Data.pdb
+C:\Users\rvieira\Desktop\PROYECTOS\SIIPO\SIIPO.Infra.Data\bin\Debug\EntityFramework.dll
+C:\Users\rvieira\Desktop\PROYECTOS\SIIPO\SIIPO.Infra.Data\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\rvieira\Desktop\PROYECTOS\SIIPO\SIIPO.Infra.Data\bin\Debug\Ninject.dll
+C:\Users\rvieira\Desktop\PROYECTOS\SIIPO\SIIPO.Infra.Data\bin\Debug\SIIPO.Dominio.dll
+C:\Users\rvieira\Desktop\PROYECTOS\SIIPO\SIIPO.Infra.Data\bin\Debug\SIIPO.Dominio.pdb
+C:\Users\rvieira\Desktop\PROYECTOS\SIIPO\SIIPO.Infra.Data\bin\Debug\EntityFramework.xml
+C:\Users\rvieira\Desktop\PROYECTOS\SIIPO\SIIPO.Infra.Data\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\rvieira\Desktop\PROYECTOS\SIIPO\SIIPO.Infra.Data\bin\Debug\Ninject.xml
+C:\Users\rvieira\Desktop\PROYECTOS\SIIPO\SIIPO.Infra.Data\obj\Debug\SIIPO.Infra.Data.csprojResolveAssemblyReference.cache
+C:\Users\rvieira\Desktop\PROYECTOS\SIIPO\SIIPO.Infra.Data\obj\Debug\SIIPO.Infra.Data.dll
+C:\Users\rvieira\Desktop\PROYECTOS\SIIPO\SIIPO.Infra.Data\obj\Debug\SIIPO.Infra.Data.pdb
+C:\Users\rvieira\Desktop\PROYECTOS\SIIPO\SIIPO.Infra.Data\obj\Debug\SIIPO.Infra.Data.Migrations.Initial.resources
+C:\Users\rvieira\Desktop\PROYECTOS\SIIPO\SIIPO.Infra.Data\obj\Debug\SIIPO.Infra.Data.csproj.GenerateResource.Cache
